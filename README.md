@@ -3,7 +3,7 @@
 
 ## Highlights 
 * Use Gemma (transformer-based) for text generation task
-* Fine-tune using quantization method (LoRA) 
+* Fine-tune using LoRA
 * Adapt the code to run with CPU-only PC 
 
  
